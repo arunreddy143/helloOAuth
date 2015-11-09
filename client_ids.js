@@ -32,7 +32,7 @@ var CLIENT_IDS = {
 var DROPBOX_CLIENT_ID = '1lkagy1bz7h2uhl';
 
 // LinkedIn Register - https://www.linkedin.com/secure/developer
-var LINKEDIN_CLIENT_ID = 'bixrjszkfk0j'; // 'exgsps7wo5o7'
+var LINKEDIN_CLIENT_ID = '7783jr9obd36kb'; // 'exgsps7wo5o7'
 
 var YAHOO_CLIENT_ID = {
 	'local.knarly.com' : 'dj0yJmk9cjVDdHlDaGtrbldJJmQ9WVdrOVYyZFhSWE4yTm04bWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmeD1jOA--',
